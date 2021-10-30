@@ -1,1 +1,5 @@
+GetData_K_L.cpp for data collection
 
+dealfile.py for data processing
+
+hmm.py for model training
